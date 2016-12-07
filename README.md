@@ -20,5 +20,4 @@ Console Library application was created for managing books from console
  "Book "Gaspar" wasn't found"
  
  The last command to close application is "end", after that it will print the next message: "BYE BYE!"
- ![alt tag](http://url/to/img.png)
  
